@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBarangCheckbox", "ListBarangCheckbox\ListBarangCheckbox.csproj", "{46B55D66-8A14-457A-99BF-CC4EBB168727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B55D66-8A14-457A-99BF-CC4EBB168727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B55D66-8A14-457A-99BF-CC4EBB168727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B55D66-8A14-457A-99BF-CC4EBB168727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B55D66-8A14-457A-99BF-CC4EBB168727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A7CE3B-C074-49AE-ACC9-9C12F6BE4B40}
+	EndGlobalSection
+EndGlobal
